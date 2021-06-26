@@ -1,0 +1,52 @@
+.video-detail {
+  background-color: white;
+}
+.video-detail-desc {
+  width: 80%;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+.video-item {
+  background-color: lightgray;
+  padding: 10px;
+  margin-bottom: 30px;
+  align-items: left;
+  cursor: pointer;
+}
+
+.content {
+  color: blue;
+}
+
+.text-box {
+  width: 200px;
+  margin-top: -15px;
+  margin-bottom: 20px;
+}
+.tile-text-box {
+  width: 200px;
+  height: 60px;
+  margin-top: -15px;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
+.video-item.item img {
+  width: 200px;
+  height: 140px;
+}
+
+.embed {
+  height: 500px;
+  width: 90%;
+  margin-left: 20px;
+}
+
+.list {
+  margin-left: 40px;
+  float: left;
+}
+
+.list-item {
+  margin-bottom: 20px;
+}
